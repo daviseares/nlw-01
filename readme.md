@@ -1,13 +1,24 @@
 <h1 align="center">
-    <img alt="Ecoleta" title="Ecoleta" src=".github/ecoleta.svg" width="220px" />
+    <img alt="NextLevelWeek" title="#NextLevelWeek" src=".github/logo.svg" width="250px" />
 </h1>
 
-<p align="center">
-  <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+<p align="center">	
+<a href="https://www.codacy.com/manual/DanielObara/NLW-1.0?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=DanielObara/NLW-1.0&amp;utm_campaign=Badge_Grade"><img src="https://app.codacy.com/project/badge/Grade/43a25c77fd4a4101a4ecc0d3df303a1e"/></a>
+		
+
+  <a aria-label="Completed" href="https://nextlevelweek.com/aulas/booster/1/edicao/1">
+    <img src="https://img.shields.io/badge/NLW-done-brightgreen?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAALVBMVEVHcExxWsF0XMJzXMJxWcFsUsD///9jRrzY0u6Xh9Gsn9n39fyMecy0qd2bjNJWBT0WAAAABHRSTlMA2Do606wF2QAAAGlJREFUGJVdj1cWwCAIBLEsRU3uf9xobDH8+GZwUYi8i6ucJwrxKE+7D0G9Q4vlYqtmCSjndr4CgCgzlyFgfKfKCVO0LrPKjmiqMxGXkJwNnXskqWG+1oSM+BSwD8f29YLNjvx/OQrn+g99oQSoNmt3PgAAAABJRU5ErkJggg=="></img>
+  </a>
+  
+  <a href="https://github.com/daviseares/nlw-01/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/daviseares/nlw-01">
+  </a>
+
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
+
+   <!-- <a href="https://github.com/DanielObara/NLW-1.0/stargazers">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/daviseares/nlw-01?style=social">
+  </a> -->
 </p>
 
 <p align="center">
