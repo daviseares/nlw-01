@@ -44,7 +44,74 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Ecoleta é um marketplace que ajuda pessoas a encontrarem pontos de coleta de resíduos de forma eficiente.
 
+## :information_source: How To Use
 
+From your command line:
+
+### Install API 
+
+```bash
+# Clone this repository
+$ git clone https://github.com/daviseares/nlw-01.git
+
+# Go into the repository
+$ cd nlw-1.0/server
+
+# Install dependencies
+$ npm install
+
+# Run Migrates
+$ npm run knex:migrate
+
+# Run Seeds
+$ npm run knex:seed
+
+# Start server
+$ npm run dev
+
+# running on port 3333
+```
+
+### Install Front-end
+
+```bash
+# Clone this repository
+$ git clone https://github.com/daviseares/nlw-01.git
+
+# Go into the repository
+$ cd nlw-1.0/web
+
+# Install dependencies
+$ npm install
+
+# Run
+$ npm start
+
+# running on port 3000
+```
+
+### Install Mobile
+
+```bash
+# Clone this repository
+$ git clone https://github.com/daviseares/nlw-01.git
+
+# Go into the repository
+$ cd nlw-1.0/mobile
+
+# Install dependencies
+$ npm install
+
+# Run
+$ expo start
+
+# Expo will open, just scan the qrcode on terminal or expo page
+
+# If some problem with fonts, execute:
+$ expo install expo-font @expo-google-fonts/ubuntu @expo-google-fonts/roboto
+
+```
+Read.me inspired by [Daniel Obara](https://github.com/DanielObara/NLW-1.0)
 
 ## :memo: Licença
 
